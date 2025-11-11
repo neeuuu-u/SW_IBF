@@ -14,6 +14,8 @@ import matplotlib as mpl
 import matplotlib.colors as mcolors
 from matplotlib.ticker import FuncFormatter
 
+
+print ("thank u karl")
 # =========================
 # CONFIG
 # =========================
